@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE microstrip_lambda_lib microstrip_lambda_lib
+ASSIGN microstrip_lambda_lib libMode shared
